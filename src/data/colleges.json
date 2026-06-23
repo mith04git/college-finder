@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "IIT Delhi",
+    "location": "Delhi",
+    "fees": "230000",
+    "rating": 4.8,
+    "averagePackage": "25 LPA",
+    "highestPackage": "1.2 Cr",
+    "courses": [
+      "CSE",
+      "ECE",
+      "Mechanical"
+    ],
+    "overview": "One of India's top engineering institutes."
+  },
+  {
+    "id": 2,
+    "name": "NIT Trichy",
+    "location": "Tamil Nadu",
+    "fees": "190000",
+    "rating": 4.7,
+    "averagePackage": "18 LPA",
+    "highestPackage": "52 LPA",
+    "courses": [
+      "CSE",
+      "ECE",
+      "Civil"
+    ],
+    "overview": "Premier NIT known for placements."
+  },
+  {
+    "id": 3,
+    "name": "BITS Pilani",
+    "location": "Rajasthan",
+    "fees": "450000",
+    "rating": 4.8,
+    "averagePackage": "22 LPA",
+    "highestPackage": "60 LPA",
+    "courses": [
+      "CSE",
+      "EEE",
+      "Mechanical"
+    ],
+    "overview": "Top private engineering college."
+  },
+  {
+    "id": 4,
+    "name": "IIIT Hyderabad",
+    "location": "Hyderabad",
+    "fees": "350000",
+    "rating": 4.9,
+    "averagePackage": "30 LPA",
+    "highestPackage": "1 Cr",
+    "courses": [
+      "CSE",
+      "AI",
+      "Data Science"
+    ],
+    "overview": "Famous for research and coding culture."
+  }
+]
